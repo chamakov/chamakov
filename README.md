@@ -16,7 +16,8 @@ const Juan = {
   code: ['Delphi', 'Python', 'Java', 'C#', 'HTML', 'CSS', 'Javascript'], 
   tools: ['Node', 'Mongo', 'Azure', 'AWS', 'Alexa', 'Embedded Systems', 'Arduino', 
           'K8', 'Docker', 'Containers', 'Terraform', 'Packer', 'Gitlab'],
-  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Desktop Development', 'SOA', 'DevOps']
+  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Desktop Development', 'SOA', 'DevOps'],
+  certification: ['AWS SysOps (Now CloudOps)', 'AWS Solutions Architect – Associate", 'Github Fundamentals', 'Github Advanced Security', 'Github Actions']
 }
 
 ```
