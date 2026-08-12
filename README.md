@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=200&section=header&text=Hi,%20I'm%20Juan%20Ortega&fontSize=50&fontAlignY=35&desc=DevOps%20Specialist%20|%20Cloud%20Architect&descAlignY=55&descAlign=50" />
 </div>
 
-<h3 align="center">Building cloud solutions and bridging systems.</h3>
+<h3 align="center">Developer with 10+ years of experience | DevOps Specialist | Cloud Architect</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-francisco-ortega-aguilar-044099148/" target="_blank">
@@ -21,9 +21,10 @@
 ### 👨‍💻 About Me
 
 - 💼 Currently working as a **DevOps Specialist & AI Integrator @ Softtek**
+- 💻 **Developer** with over 10 years of solid software engineering experience
 - 🤖 Integrating Generative AI (**AWS Bedrock, Anthropic Claude**) into automated systems
 - ⚙️ Building robust infrastructure heavily relying on **Terraform** and **IaC**
-- 🚀 **Freelance developer** and **Cloud Architect**
+- 🚀 **Freelance Developer** and **Cloud Architect**
 - 🔊 **Alexa Enthusiast** and builder of voice experiences
 - 🖥️ Legacy integration with modern APIs (**Delphi Expert**, Spring)
 - 🐍 Passionate **Pythonista**
