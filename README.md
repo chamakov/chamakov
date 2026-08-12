@@ -71,8 +71,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamakov&show_icons=true&theme=tokyonight&bg_color=0b0f19&hide_border=true&title_color=00f0ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamakov&layout=compact&theme=tokyonight&bg_color=0b0f19&hide_border=true&title_color=00f0ff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=chamakov&show_icons=true&theme=tokyonight&bg_color=0b0f19&hide_border=true&title_color=00f0ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chamakov&layout=compact&theme=tokyonight&bg_color=0b0f19&hide_border=true&title_color=00f0ff" height="150" alt="Top Languages" />
 </div>
 
 <br />
