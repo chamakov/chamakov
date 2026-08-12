@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=200&section=header&text=Hi,%20I'm%20Juan%20Ortega&fontSize=50&fontAlignY=35&desc=DevOps%20Specialist%20|%20Cloud%20Architect&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0ff&height=200&section=header&text=Hi,%20I'm%20Juan%20Ortega&fontSize=50&fontAlignY=35&desc=Developer%20with%2010%2B%20years%20of%20experience%20%7C%20DevOps%20Specialist%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" />
 </div>
 
 <h3 align="center">Developer with 10+ years of experience | DevOps Specialist | Cloud Architect</h3>
