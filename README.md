@@ -23,6 +23,7 @@
 - 💼 Currently working as a **DevOps Specialist & AI Integrator @ Softtek**
 - 💻 **Developer** with over 10 years of solid software engineering experience
 - 🤖 Integrating Generative AI (**AWS Bedrock, Anthropic Claude**) into automated systems
+- 🎮 Huge **Pokémon enthusiast**, currently building event & attendee management solutions in this ecosystem
 - ⚙️ Building robust infrastructure heavily relying on **Terraform** and **IaC**
 - 🚀 **Freelance Developer** and **Cloud Architect**
 - 🔊 **Alexa Enthusiast** and builder of voice experiences
